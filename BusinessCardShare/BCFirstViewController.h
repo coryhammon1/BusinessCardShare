@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+#define BCNameUserDefaultKey @"BCNameUserDefaultKey"
+#define BCOrganizationUserDefaultKey @"BCOrganizationUserDefaultKey"
+#define BCTitleUserDefaultKey @"BCTitleUserDefaultKey"
+
 @interface BCFirstViewController : UIViewController
 
 @end
